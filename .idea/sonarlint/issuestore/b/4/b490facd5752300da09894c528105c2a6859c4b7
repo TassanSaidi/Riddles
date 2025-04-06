@@ -1,0 +1,13 @@
+
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8¯ÅğÓà2
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ŒØğÓà2
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8‹ñÓà2
+t	java:S127$"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8«ÒñÓà2
+7
+java:S1220""Move this file to a named package.8°ÅğÓà2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¨œÔ¹ÿÿÿÿÿ8ÆğÓà2
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¢œçªùÿÿÿÿ8ÆğÓà2
+M
+java:S1481"+Remove this unused "result" local variable.(ĞĞî…ıÿÿÿÿ8ÆğÓà2

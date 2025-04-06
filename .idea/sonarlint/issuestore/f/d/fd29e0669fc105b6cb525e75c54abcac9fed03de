@@ -1,0 +1,14 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áùıÿÿÿÿ8´ãä¯à2
+7
+java:S1220""Move this file to a named package.8µãä¯à2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Áùıÿÿÿÿ8¤ää¯à2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹±ÆĞüÿÿÿÿ8¥ää¯à2
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(¹±ÆĞüÿÿÿÿ8ß‰æ¯à2
+M
+java:S1172"+Remove this unused method parameter "args".(¹±ÆĞüÿÿÿÿ8¥ää¯à2
+G	java:S106A"+Replace this use of System.out by a logger.(ÎÛ¡•8ØÌï²à2
+L	java:S106C"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ØÌï²à2
+L	java:S106D"+Replace this use of System.out by a logger.(®æ’Ğşÿÿÿÿ8ØÌï²à2
